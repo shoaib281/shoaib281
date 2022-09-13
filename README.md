@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 I'm a developer and student in the UK. Curerently, I'm a first year student at [Kings College London](https://www.kcl.ac.uk/) studying Computer Science.
 
