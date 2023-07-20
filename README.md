@@ -4,7 +4,7 @@
 
 I'm a developer and student in the UK. Currently, I'm a first year student at [Kings College London](https://www.kcl.ac.uk/) studying Computer Science.
 
-I have experience in a range of languages including Python, Lua and Javascript and technologies such as PostgreSQL, Bootstrap and Git. At the moment, I'm learning working with C++
+I have experience in a range of languages including Python, Lua and Javascript and technologies such as PostgreSQL, Bootstrap and Git. At the moment, I'm working with C++
 
 Here are some projects that I've worked on: 
 
